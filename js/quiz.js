@@ -3,44 +3,44 @@
     var data = {
         quizContent: [
             {
-                question: "???? ????? ???????? ????? ????????????? ?????? ?????",
-                answer1: "????? ????????? ????????? ????????",
-                answer2: "??????????? ???????????? ???????? ???????? ??????",
-                answer3: "?????? ??????? ????? ????? ?????????? ????????? ??????? ????",
-                fact:"The correct answer is ?????? ??????? ????? ????? ?????????? ????????? ??????? ????",
+                question: " 'அறம் செய்ய விரும்பு' என்பதன் பொருள் என்ன?",
+                answer1: "பிறருக்குச் செய்யப்படும் உதவியைத் தடுக்கக் கூடாது",
+                answer2: "கொடுக்க இயன்றதை இல்லை என்று மறைக்கக்கூடாது",
+                answer3: "தருமம் மற்றும் நன்மை தரும் செயல்களைச் செய்வதில் நாட்டம் கொள்",
+                fact:"சரியான பதில், தருமம் மற்றும் நன்மை தரும் செயல்களைச் செய்வதில் நாட்டம் கொள்",
                 correctAnswer: 3
             },
             {
-                question: "Where is the Microsoft Corporation headquarters located?",
-                answer1: "Mountain View",
-                answer2: "Redmond",
-                answer3: "Cupertino",
-                fact:"The correct answer is Redmond",
+                question: " 'மளமள' எனும் இரட்டைக்கிளவியின் பொருள் ?",
+                answer1: "உடல் மெலிந்து காணப்படுதல்",
+                answer2: "ஒன்றை விரைவாகவும் சுறுசுறுப்பாகவும் செய்தல்",
+                answer3: "ஓடும் போது ஏற்படும் ஓசை",
+                fact:"சரியான விடை 'ஒன்றை விரைவாகவும் சுறுசுறுப்பாகவும் செய்தல்' ",
                 
                 correctAnswer: 2
             },
             {
-                question:  "Which billion-dollar company purchased Instagram ?",
-                answer1: "Amazon",
-                answer2: "Facebook",
-                answer3: "Twitter",
-                fact:"The correct answer is Facebook",
+                question:  "இனிய உளவாக இன்னாத கூறல் ......",
+                answer1: "நற்றாள் தொழாஅர் எனின்",
+                answer2: "கனியிருப்பக் காய்கவர்ந் தற்று",
+                answer3: "நிற்க அதற்குத் தக",
+                fact:"சரியான விடை 'கனியிருப்பக் காய்கவர்ந் தற்று' ",
                 correctAnswer: 2
             },
             {
-                question: "Which information-technology company was founded on April Fool's Day?",
-                answer1: "Microsoft",
-                answer2: "Amazon",
-                answer3: "Apple",
-                fact:"The correct answer is Apple",
+                question: "பணக்காரர்களுக்குச் சிறப்பு, உறவினர்களை ஆதரித்தல் ஆகும் என்பதற்கு ஏற்ற வெற்றிவேற்கை என்ன?",
+                answer1: "தனந்தேடி யுண்ணாமற் புதக்க வேண்டாம்",
+                answer2: "ஒன்று பட்டால் உண்டு வாழ்வு",
+                answer3: "செல்வர்க் கழகு செழுங்கிளை தாங்குதல்",
+                fact:"சரியான விடை 'செல்வர்க் கழகு செழுங்கிளை தாங்குதல்' ",
                 correctAnswer: 3
             },
             {
-                question  : "Who is the present CEO of Yahoo!?",
-                answer1  : "Marissa Mayer",
-                answer2  : "Tim Cook",
-                answer3  : "Sheryl Sandberg",
-                fact:"The correct answer is Marissa Mayer",
+                question  : "வெறும் கற்பனை எனும் பொருள் தரும் மரபுத்தொடர் யாது?",
+                answer1  : "மனக்கோட்டை",
+                answer2  : "ஒற்றைக் காலில் நிற்றல்",
+                answer3  : "தொன்று தொட்டு",
+                fact:"சரியான விடை 'மனக்கோட்டை'",
                 correctAnswer: 1
                   
                     
