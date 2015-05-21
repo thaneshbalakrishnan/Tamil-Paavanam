@@ -9,5 +9,6 @@ TO DO LIST
 - Fonts Size
 - YouTube Embed responsive
 - Text responsive
-- Quiz to change all commands to Tamil
-- 
+
+DONE LIST
+- All Quiz commands changed to Tamil
