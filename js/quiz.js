@@ -81,27 +81,27 @@
             getAnswer2.innerHTML = data.quizContent[control.count].answer2;
             getAnswer3.innerHTML = data.quizContent[control.count].answer3;
          
-            getCurrentPoints.innerHTML = 'Points:' + ' ' + data.points;
-            this.newElement('button', 'submit', 'Submit Answer');
+            getCurrentPoints.innerHTML = 'புள்ளி:' + ' ' + data.points;
+            this.newElement('button', 'submit', 'பதிலளி');
         },
         addAnswer: function(showMessage) {
             var sumOfQuestions = data.quizContent.length;
 
             if(showMessage === 'correct') {
-                this.newElement('p', 'showAnswer', 'Correct Answer!');
+                this.newElement('p', 'showAnswer', 'சரியான பதில்!');
             } else {
                 
                 var x=data.quizContent[control.count].fact
               
                 
                 
-                this.newElement('p', 'showAnswer', 'Incorrect !'+x );
+                this.newElement('p', 'showAnswer', 'தவறான பதில் !'+x );
             }
 
             if (control.count < sumOfQuestions - 1) {
-                this.newElement('button', 'nextQuest', 'Next question');
+                this.newElement('button', 'nextQuest', 'அடுத்தப் புதிர்');
             } else {
-                this.newElement('button', 'result', 'See your result');
+                this.newElement('button', 'result', 'முடிவுகளை காணவும்');
             }
         },
         removeAnswer: function(event) {
@@ -122,8 +122,8 @@
 
         // Displays final page of the quiz
         resultPage: function() {
-            this.getApp.innerHTML = '<h1 class="h3">You have ' + data.points + ' question(s) answered correctly</h1>';
-            this.newElement('button', 'restart', 'Restart Quiz');
+            this.getApp.innerHTML = '<h1 class="h3">நீங்கள் ' + data.points + ' கேள்விக்கு  சரியான பதிலளித்துள்ளீர். வாழ்த்துகள்!</h1>';
+            this.newElement('button', 'restart', 'புதிர் தொடங்கு');
         },
         newElement: function(elem, elemId, elemText) {
             var newElem = document.createElement(elem);
