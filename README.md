@@ -1,7 +1,7 @@
 # TamilArivuPro-master
 
 TO DO LIST
--Splash screen banner
+- Splash screen banner
 - Icon
 - First page thumbnail space remove
 - Back button not working in most category
