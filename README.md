@@ -3,7 +3,6 @@
 TO DO LIST
 - Splash screen banner
 - Icon
-- First page thumbnail space remove
 - Back button not working in most category
 - Menu color to change in most category
 - Fonts Size
@@ -13,3 +12,4 @@ TO DO LIST
 
 DONE LIST
 - All Quiz commands changed to Tamil
+- First page thumbnail space remove
