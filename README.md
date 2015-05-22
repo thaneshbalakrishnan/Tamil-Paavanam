@@ -14,3 +14,4 @@ DONE LIST
 - First page thumbnail space remove
 - Splash screen banner
 - Icon
+- Banner font changed to standard mode
