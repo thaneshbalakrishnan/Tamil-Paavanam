@@ -4,7 +4,6 @@ TO DO LIST
 
 - Fonts Size
 - Text responsive
-- Irattaikilavis bar
 
 
 DONE LIST
@@ -18,4 +17,3 @@ DONE LIST
 - FIXED : QUIZ page Menu Links broken
 - FIXED : Back button replaced with Menu
 - FIXED : Menu color in category
-- Font size changed for certains
