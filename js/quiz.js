@@ -49,6 +49,8 @@
         points: 0
     };
     
+	adbuddiz.showAd();
+	
     var display = {
         getApp: document.getElementById('app'),
 

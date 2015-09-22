@@ -2,8 +2,8 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
 	xmlns:gap = "http://phonegap.com/ns/1.0"
 	id        = "com.sjktts.tamilarivu"
-	versionCode="5.2"
-	version   = "5.2.1">
+	versionCode="6"
+	version   = "6.3">
 <name>தமிழ் அறிவு</name>
 <description>
 செய்யுளும் மொழியணியும்</description>
@@ -49,6 +49,7 @@ MGVN Ent
     <!-- Core plugins -->
     <gap:plugin name="org.apache.cordova.splashscreen" />
 	<gap:plugin name="org.apache.cordova.media" />
+	<gap:plugin name="com.purplebrain.adbuddiz.sdk" source="npm" />
 	<gap:plugin name="com.admob.plugin" version="3.0.0" source="plugins.cordova.io" />
 	<gap:plugin name="org.apache.cordova.camera" version="0.3.2" />
 
