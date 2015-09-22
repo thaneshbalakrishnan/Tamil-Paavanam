@@ -45,15 +45,7 @@ $( document ).on( "pagebeforeshow", "#postIndex", function() {
 	 
 });
 
- onDeviceReady: function() {
- adbuddiz.setAndroidPublisherKey(
-		"a7008ec7-4013-49bb-8f3a-b923583f32e4");
-adbuddiz.setIOSPublisherKey(
-		"7833fabd-beb6-46af-8dac-a324e0675a4e");
-adbuddiz.cacheAds();
-   }
- 
- 
+	
  
 $( document ).on( "pagebeforeshow", "#postPage", function() {
                 
@@ -87,7 +79,13 @@ $( document ).on( "pagebeforeshow", "#postPage", function() {
 
 function redirectPage() { window.location = linkLocation; }
 
-
+ onDeviceReady: function() {
+ adbuddiz.setAndroidPublisherKey(
+		"a7008ec7-4013-49bb-8f3a-b923583f32e4");
+adbuddiz.setIOSPublisherKey(
+		"7833fabd-beb6-46af-8dac-a324e0675a4e");
+adbuddiz.cacheAds();
+   }
 
 function getQueryVariable(variable)
 {
