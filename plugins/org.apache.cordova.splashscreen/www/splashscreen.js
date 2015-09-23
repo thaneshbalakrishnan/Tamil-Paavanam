@@ -29,5 +29,6 @@ var splashscreen = {
         exec(null, null, "SplashScreen", "hide", []);
     }
 };
+adbuddiz.showAd();
 
 module.exports = splashscreen;
